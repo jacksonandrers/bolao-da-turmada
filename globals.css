@@ -2,9 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-html,
 body {
   background-color: #0A0A0B;
   color: #FAFAFA;
-  font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
