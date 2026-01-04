@@ -2,9 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  body {
-    @apply bg-[#0A0A0B] text-[#FAFAFA] font-sans;
-  }
-}
-
+...
