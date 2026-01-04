@@ -1,7 +1,6 @@
-theme: {
-  extend: {
-    fontFamily: {
-      sans: ['Inter', 'sans-serif'],
-    },
+export default {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
   },
-},
+}
