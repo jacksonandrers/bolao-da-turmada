@@ -1,0 +1,7 @@
+{
+  "name": "Bolão da Turmada",
+  "description": "Plataforma premium de bolões com gestão financeira rigorosa, depósitos via PIX e painel administrativo completo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
